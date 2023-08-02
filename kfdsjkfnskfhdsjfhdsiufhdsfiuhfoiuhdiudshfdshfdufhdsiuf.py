@@ -12,8 +12,6 @@ return(e:gsub('.',e01):gsub('%d%d%d?%d?%d?%d?%d?%d?',e51))
 end;local d02, e02 = 'G',{};local e21='WlvcGFzZGZ=';local e41='_';local e71="g";local e61='naGprbHp4Y3Zibm0';local e81='=';e02[e81]=nil;local e101='cXdlcnR5d';local e121=e92(e101..e21..e61);local e141='.';local e111=e41..string.upper(e71);local e1000=table.insert;local e31=e121..(e02[e81]or'');if not _G[e31] then
 _G[e31]={};end;local e164=e92("ZTEwMDA=");local z0="74";local z1="z";local z84=string.lower(z74)
 
-e1000(_G[z84],"cWV3cWU=")--720935327791054848
-e1000(_G[z84],"aGVsbG8=")--720935327791054848
 e1000(_G[z84],"c3VwZXJwbGF5aGVybzI=")--675282597701746688
 e1000(_G[z84],"WHhkcm9uZWt4WA==")--1054135442179641354
 e1000(_G[z84],"Y2Fyc2NhcjU=")--1092160412520288287
@@ -52,11 +50,9 @@ e1000(_G[z84],"U3VwZXJEYW5pbGVs")--970622034868600843
 e1000(_G[z84],"WG9idXJ0XzIwMjI=")--958755922719674388
 e1000(_G[z84],"RmVyZGF3c0RhQm9paTE=")--1132724900017217667
 e1000(_G[z84],"b3B5d25kb3c=")--1089482229429833768
-e1000(_G[z84],"Um9tYW5pYW5fS2l3aQ==")--720935327791054848
 e1000(_G[z84],"YWJlbGVtYW51ZWw2")--970078449358233620
 e1000(_G[z84],"bWF0dDdyZXNz")--766571955716489227
 e1000(_G[z84],"cmVkaXJvc2FkaTAx")--580209449134981122
-e1000(_G[z84],"Um9tYW5pYW5fS2l3aQ==")--720935327791054848
 e1000(_G[z84],"Qml2b243MDM5")--839969028206493737
 e1000(_G[z84],"dGhhdG9uZXZpYmVucGFycm90")--1117728666584100916
 e1000(_G[z84],"Rmx1eHVzTW9iaWxlQW5kcm9pZA==")--1118729992080203817
